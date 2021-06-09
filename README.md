@@ -1,6 +1,10 @@
-# FastConvolution
 
-In [CSDN](https://blog.csdn.net/youyou_sir/article/details/79531866)
 
+Used for Digital Signal Processing Course (China).
+
+
+### FastConvolution
 Two plural as input.
 The Fast Convolution are divided into FFT, MUL and IFFT
+
+### Digital filter
